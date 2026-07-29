@@ -1,0 +1,31 @@
+{
+  "shop": {
+    "machine_rate_hr": 138.69757359394902,
+    "setup_min": 5.038832740032673,
+    "order_fixed": 123.23286243357529,
+    "min_part_price": 30.028346245362577,
+    "drill_handling_s": 40.93263623213761,
+    "material_markup": 2.7151228008036408,
+    "handling_min_setup": 5.636085245469556
+  },
+  "materials": {
+    "al6061": {
+      "mrr_rough_cm3_min": 42.532,
+      "arr_flat_cm2_min": 85.065,
+      "arr_3d_cm2_min": 17.013,
+      "drill_vc_m_min": 170.129
+    },
+    "ss316": {
+      "mrr_rough_cm3_min": 6.38,
+      "arr_flat_cm2_min": 19.848,
+      "arr_3d_cm2_min": 4.962,
+      "drill_vc_m_min": 31.19
+    }
+  },
+  "_fit": {
+    "n_obs": 20,
+    "rms_log_residual": 0.0484,
+    "speed_scale": 1.418,
+    "note": "316 rates = handbook ratio x fitted speed_scale; no 316 instant-quote data exists to validate them"
+  }
+}

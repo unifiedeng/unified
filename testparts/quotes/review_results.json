@@ -1,0 +1,67 @@
+{
+  "t1_block": {
+    "prices": {
+      "1": {
+        "unit": 309.4,
+        "subtotal": 309.4,
+        "lead_ok": true,
+        "delivery": "Standard Wed, Aug 5",
+        "receive_by": "Wed, Aug 5"
+      },
+      "5": {
+        "unit": 116.93,
+        "subtotal": 584.65,
+        "lead_ok": true,
+        "delivery": "Standard Wed, Aug 5",
+        "receive_by": "Wed, Aug 5"
+      },
+      "10": {
+        "unit": 82.82,
+        "subtotal": 828.2,
+        "lead_ok": true,
+        "delivery": "Standard Wed, Aug 5",
+        "receive_by": "Wed, Aug 5"
+      },
+      "25": {
+        "unit": 78.9,
+        "subtotal": 1972.5,
+        "lead_ok": true,
+        "delivery": "Standard Wed, Aug 5",
+        "receive_by": "Wed, Aug 5"
+      }
+    }
+  },
+  "t5_sideholes": {
+    "prices": {
+      "1": {
+        "unit": 353.66,
+        "subtotal": 353.66,
+        "lead_ok": true,
+        "delivery": "Standard Wed, Aug 5",
+        "receive_by": "Wed, Aug 5"
+      },
+      "5": {
+        "unit": 162.96,
+        "subtotal": 814.8,
+        "lead_ok": true,
+        "delivery": "Standard Wed, Aug 5",
+        "receive_by": "Wed, Aug 5"
+      },
+      "10": {
+        "unit": 129.43,
+        "subtotal": 1294.3,
+        "lead_ok": true,
+        "delivery": "Standard Wed, Aug 5",
+        "receive_by": "Wed, Aug 5"
+      },
+      "25": {
+        "unit": 125.55,
+        "subtotal": 3138.75,
+        "lead_ok": true,
+        "delivery": "Standard Wed, Aug 5",
+        "receive_by": "Wed, Aug 5"
+      }
+    },
+    "analysis_done": true
+  }
+}

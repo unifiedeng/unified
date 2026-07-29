@@ -1,0 +1,11 @@
+{
+  "_comment": "Copy this file to logins.json and fill in real credentials. Optional — only needed if you want the browser agent to log in to quoting sites for you. logins.json is git-ignored so your credentials never get committed.",
+  "protolabs.com": {
+    "username": "you@example.com",
+    "password": "your-password"
+  },
+  "mcmaster.com": {
+    "username": "you@example.com",
+    "password": "your-password"
+  }
+}

@@ -1,0 +1,46 @@
+# ============================================================================
+# SECRETS & LOCAL STATE — never commit. Also covered by browser-agent/.gitignore,
+# listed here too so they're excluded even if the tree is flattened or copied.
+# ============================================================================
+.env
+**/.env
+logins.json
+**/logins.json
+profile/
+**/profile/
+# Any browser profile dir, however suffixed (profile-protolabs, profile-mcm-fresh,
+# profile-<whatever you make next>). These hold live session cookies and logins —
+# a single missed pattern here publishes an authenticated session.
+profile-*/
+**/profile-*/
+browser-agent/files/
+browser-agent/state/
+netlog_*.json
+protolabs_storage.json
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+*.whl
+
+# ---- NX generated outputs (derived from parts; regenerate with `draw` / `quote`) ----
+*_dwg.prt
+*_dwg.pdf
+*_dwg_report.txt
+*_params.json
+*.step
+*.stp
+*.stl
+
+# ---- Quote PDFs and run logs (contain account details / are regenerable) ----
+Quote *.pdf
+*.log
+*.bak*
+
+# ---- OS cruft ----
+.DS_Store
+Thumbs.db

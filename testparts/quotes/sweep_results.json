@@ -1,0 +1,158 @@
+{
+  "t1_block|al6061": {
+    "part": "t1_block",
+    "material_key": "al6061",
+    "material_label": "Aluminum 6061-T651/T6",
+    "prices": {
+      "1": {
+        "unit": 309.4,
+        "parts_total": 309.4
+      },
+      "5": {
+        "unit": 116.93,
+        "parts_total": 584.65
+      },
+      "10": {
+        "unit": 82.82,
+        "parts_total": 828.2
+      },
+      "25": {
+        "unit": 78.9,
+        "parts_total": 1972.5
+      }
+    }
+  },
+  "t2_pocket|al6061": {
+    "part": "t2_pocket",
+    "material_key": "al6061",
+    "material_label": "Aluminum 6061-T651/T6",
+    "prices": {
+      "1": {
+        "unit": 321.71,
+        "parts_total": 321.71
+      },
+      "5": {
+        "unit": 127.19,
+        "parts_total": 635.95
+      },
+      "10": {
+        "unit": 92.43,
+        "parts_total": 924.3
+      },
+      "25": {
+        "unit": 88.47,
+        "parts_total": 2211.75
+      }
+    }
+  },
+  "t3_holes|al6061": {
+    "part": "t3_holes",
+    "material_key": "al6061",
+    "material_label": "Aluminum 6061-T651/T6",
+    "prices": {
+      "1": {
+        "unit": 375.75,
+        "parts_total": 375.75
+      },
+      "5": {
+        "unit": 170.56,
+        "parts_total": 852.8
+      },
+      "10": {
+        "unit": 134.19,
+        "parts_total": 1341.9
+      },
+      "25": {
+        "unit": 130.01,
+        "parts_total": 3250.25
+      }
+    }
+  },
+  "t4_complex|al6061": {
+    "part": "t4_complex",
+    "material_key": "al6061",
+    "material_label": "Aluminum 6061-T651/T6",
+    "prices": {
+      "1": {
+        "unit": 357.86,
+        "parts_total": 357.86
+      },
+      "5": {
+        "unit": 162.43,
+        "parts_total": 812.15
+      },
+      "10": {
+        "unit": 127.8,
+        "parts_total": 1278.0
+      },
+      "25": {
+        "unit": 123.82,
+        "parts_total": 3095.5
+      }
+    }
+  },
+  "t5_sideholes|al6061": {
+    "part": "t5_sideholes",
+    "material_key": "al6061",
+    "material_label": "Aluminum 6061-T651/T6",
+    "channel": "factory_review_standard",
+    "prices": {
+      "1": {
+        "unit": 353.66
+      },
+      "5": {
+        "unit": 162.96
+      },
+      "10": {
+        "unit": 129.43
+      },
+      "25": {
+        "unit": 125.55
+      }
+    }
+  },
+  "t6_bigblock|al6061": {
+    "part": "t6_bigblock",
+    "material_key": "al6061",
+    "material_label": "Aluminum 6061-T651/T6",
+    "prices": {
+      "1": {
+        "unit": 731.06,
+        "parts_total": 731.06
+      },
+      "5": {
+        "unit": 476.81,
+        "parts_total": 2384.05
+      },
+      "10": {
+        "unit": 431.39,
+        "parts_total": 4313.9
+      },
+      "25": {
+        "unit": 426.21,
+        "parts_total": 10655.25
+      }
+    }
+  },
+  "t5_sideholes|al6061_network": {
+    "note": "Protolabs Network (ISO 2768-m) channel prices from configure page",
+    "prices": {
+      "1": {
+        "unit": 117.85,
+        "parts_total": 117.85
+      },
+      "5": {
+        "unit": 48.13,
+        "parts_total": 240.65
+      },
+      "10": {
+        "unit": 31.81,
+        "parts_total": 318.1
+      },
+      "25": {
+        "unit": 19.59,
+        "parts_total": 489.75
+      }
+    }
+  }
+}

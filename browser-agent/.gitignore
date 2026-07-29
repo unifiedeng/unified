@@ -1,0 +1,7 @@
+# Secrets and local browser state living in this folder — never commit.
+# (The code here — agent.py, README.md, requirements.txt, site-notes.md — IS committed.)
+.env               # your ANTHROPIC_API_KEY  (copy .env.example -> .env)
+logins.json        # site usernames/passwords (copy logins.example.json -> logins.json)
+profile/           # Chrome user-data dir: cookies, live login sessions
+files/             # agent workspace: downloaded parts, quotes, scratch files
+__pycache__/
